@@ -1,3 +1,4 @@
+# **NOTICE:** This repository has been **DEPRECATED**. Do not use.
 ![PagerDuty](pagerduty.png) bip-pod-pagerduty
 =======
 
